@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 이종범(BellTigerLee) # the main title
 
-tagline: Welcome to my basic homepage. \n <br>  # it will display as the subtitle
+tagline: Welcome to my basic homepage.<br>  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -42,7 +42,7 @@ social:
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
